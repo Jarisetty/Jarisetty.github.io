@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial;
-    background-color: #add8e6;
+    background-color: #c9d7e3;
 }
 h1 {
     color: #551261;
@@ -18,5 +18,17 @@ img {
     max-width: 100%;
 }
 h2 {
-    color
+    color:#20236e;
+    background-color: #b2bff0;
+    padding: 0.5rem;
+}
+hr {
+    border: 6px dotted #746595;
+}
+main {
+    border: 2px white solid;
+    margin: 0.5rem;
+    margin-top: 0;
+    background-color: #add8e6;
+    max-width: 45rem;
 }
