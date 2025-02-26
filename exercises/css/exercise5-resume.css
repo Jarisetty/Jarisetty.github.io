@@ -1,0 +1,22 @@
+
+body {
+    font-family: Arial;
+    background-color: #add8e6;
+}
+h1 {
+    color: #551261;
+    background-color: #bdaedb;
+    padding: 1.5rem;
+}
+p {
+    margin: 1.5rem;
+}
+img {
+    float: right;
+    border: 2px #fffff solid;
+    margin: .65rem;
+    max-width: 100%;
+}
+h2 {
+    color
+}
