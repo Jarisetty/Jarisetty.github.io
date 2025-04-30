@@ -115,10 +115,11 @@ main.home h1 {
     display: grid;
     text-align: center;
     width: fit-content;
+ 
     font-family: "Playwrite CU", cursive;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 main.home p {
     align-content: center;
@@ -163,4 +164,111 @@ main.aboutme img {
     max-width: 60%;
     margin-left: 0.5rem;
     border: 3px#7D1049 solid;
+}
+/* RESUME */
+h1 {
+    color: ;
+    background-color: #;
+    padding: 1.5rem;
+}
+p {
+    margin: 1.5rem;
+}
+img {
+    float: right;
+    border: 2px #fffff solid;
+    margin: .65rem;
+    max-width: 70%;
+}
+h2 {
+    color:#2236e;
+    background-color: #;
+    padding: 0.5rem;
+}
+hr {
+    border: 6px dotted #;
+}
+main {
+    border: 2px white solid;
+    margin: 0.5rem;
+    margin-top: 0;
+    background-color: #E4E0D5;
+    max-width: 90rem;
+}
+
+/* PORTFOLIO */
+/* add grid??? */
+main.portfolio {
+    background-color: #e4e0d5;
+}
+main.portfolio h1 {
+    float: right;
+    margin: 20px;
+    display: grid;
+    align-content: center;
+
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+main.portfolio h2 {
+    justify-content: right;
+}
+main.portfolio p {
+    padding: 10px; 
+}
+.academicwriting {
+    width: 45%;
+    float: left;
+    padding: 10px;
+    background-color: #E4B7AD;
+    border-radius: 2rem;
+
+}
+.creativewriting {
+    width: 45%;
+    float: right;
+    padding: 10px;
+    background-color: #E4B7AD;
+    border-radius: 2rem;
+}
+
+/* ACADEMIC HOME */
+main.academic {
+    background-color: #E4B7AD;
+}
+main.academic h1 {
+    text-align: center;
+    color: #7D1049;
+    
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+main.academic h2 {
+    color: #7D1049;
+}
+.wrapper {
+    border: 10px #6f4175 dotted;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+    max-width: 40rem;
+    margin-bottom: 0.5rem;
+
+}
+.academic article {
+    background-color: #e4e0d5;
+    color: #3f0243;
+    border: 4px #6f4175 solid;
+    border-radius: 0.5rem;
+    padding: 1.3rem;
+    margin: 0.9rem;
+}
+.academic a:link {
+    color: #7D1049;
+}
+.academic a:link :visited {
+    color: #E4B7AD;
 }
