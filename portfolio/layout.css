@@ -1,19 +1,34 @@
 /* LAYOUT TEMPLATE */
+/* color and font
+h1 {font-family: "Playwrite CU", cursive;
+    font-weight: 400;
+    font-style: normal;}       
+h2 {font-family: "Molle", "Mr Bedfort", cursive;
+    font-weight: 400;
+    font-style: normal;} 
+p {font-family: "Bellota", system-ui;
+    font-weight: 400;
+    font-style: normal;}     
+link {#7D1049;
+    visited: color: #E4B7AD}
+colors: #e4e0d5 (light beige); #E4B7AD (midtone beige); #7D1049 (magenta); #6f4175 (light purple); #3f0243 (darkest puple); 
+
+*/
 body {
    display: grid;
    grid-template-rows: auto 1fr auto;
    grid-template-columns: 1fr;
    background-color: #e4e0d5;
    min-height: 100vh;
-}
+    }
 header {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
-}
+    }
 .title {
     display: flex;
     justify-content: center;
-}
+    }
 h2.logo {
     background-color: #6f4175;
     color: #e4e0d5;
@@ -27,37 +42,37 @@ h2.logo {
     font-family: "Molle", "Mr Bedfort", cursive;
     font-weight: 400;
     font-style: normal;
-}
+    }
 h2.logo a:link {
     color: #e4e0d5;
     text-decoration: none;
-}
+    }
 h2.logo a:visited {
     color: #e4e0d5;
     text-decoration: none;
-}
+    }
 h2.logo a:hover {
     color: #e4e0d5;
     text-decoration: overline underline;
-}
+    }
 h2.logo a:active{
     color: #e4e0d5;
     text-decoration: underline;
-}
+    }
 nav li {
     list-style-type: none;
     background-color: #3f0243;
     margin: 1rem;
-}
+    }
 nav a {
     text-decoration: none;
-    color: lightgrey;
+    color: #e4e0d5;
     padding: 25px;
-}
+    }
 nav a:hover {
     color: #e4e0d5;
     background-color: #3f0243;
-}
+    }
 nav ul {
     display: flex;
     justify-content: center;
@@ -65,7 +80,7 @@ nav ul {
     padding: 25px;
     margin: 0;
     flex-wrap: wrap;
-}
+    }
 main {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
@@ -73,11 +88,11 @@ main {
     font-family: "Bellota", system-ui;
     font-weight: 400;
     font-style: normal;
-}
+    }
 footer {
     grid-column: 1 / 2;
     grid-row: 3 / 4;
-}
+    }
 footer li {
         list-style-type: none;
         background-color: #3f0243;
@@ -105,7 +120,7 @@ footer ul {
 main.home { 
     margin: 10px;
     background-color: #e4e0d5;
-}
+    }
 main.home h1 {
     padding: 1rem;
     border: 3px #3f0243 solid;
@@ -117,147 +132,192 @@ main.home h1 {
     width: fit-content;
  
     font-family: "Playwrite CU", cursive;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-}
+    }
 main.home p {
     align-content: center;
     color: #3F0243;
     font-size: large;
-}
+    }
 main.home img {
     float: right;
     max-width: 100%;
     max-height: 100%;
     margin: 2rem;
     /* got the positioning right but i don't want the image to auto float to the top when window minimized */
-}
+    }
 
-/* ABOUT PAGE */
+/* ABOUT PAGE (bump up text size) */ 
 main.aboutme {
     margin-top: 1rem;
     margin-bottom: 1rem;
     background-color: #E4B7AD;
     padding-left: 1rem;
     padding-right: 1rem;
-}
+    }
 main.aboutme h1 {
     color: #7D1049;
     font-family: "Playwrite CU", cursive;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-}
+    }
 main.aboutme h2 {
     color: #3F0243;
-}
+    }
 main.aboutme p {
     color: #3F0243;
-}
+    font-size: large;
+    }
 /* how to target elements based on page? */
 main.aboutme a:link {
     color: #6f4175;
-}
+    }
 main.aboutme img {
     float: right;
     max-width: 60%;
     margin-left: 0.5rem;
     border: 3px#7D1049 solid;
-}
+    }
 /* RESUME */
-h1 {
-    color: ;
-    background-color: #;
+
+main.resume h1 {
+    font-family: "Playwrite CU", cursive;
+    font-weight: 400;
+    font-style: normal;
     padding: 1.5rem;
+    color: #7D1049;
 }
-p {
+main.resume p {
     margin: 1.5rem;
+    color: #3f0243;
+    font-size: large;
 }
-img {
+main.resume li {
+    color: #3F0243;
+    font-size: large;
+}
+main.resume img {
     float: right;
     border: 2px #fffff solid;
     margin: .65rem;
-    max-width: 70%;
+    max-width: 30%;
 }
-h2 {
-    color:#2236e;
-    background-color: #;
+main.resume h2 {
+    color:#7D1049;
+    background-color: #E4B7AD;
     padding: 0.5rem;
 }
-hr {
-    border: 6px dotted #;
+main.resume h3, h4 {
+    color: #6f4175;
 }
-main {
-    border: 2px white solid;
-    margin: 0.5rem;
+main.resume hr {
+    border: 2px #E4B7AD solid;
+}
+main.resume {
+    border: 5px dotted #7D1049;   
+    border-top: 0;
+    margin: auto;
     margin-top: 0;
-    background-color: #E4E0D5;
-    max-width: 90rem;
+    margin-bottom: 0.5rem;
+    max-width: 70rem;
+    background-color: #e4e0d5;
+    padding: 0.5rem;
 }
+main.resume a:link {
+    color: #7D1049;
+    text-decoration: none;
+    }
+main.resume a:link :visited {
+    color: #6f4175;
+    }
 
 /* PORTFOLIO */
 /* add grid??? */
 main.portfolio {
     background-color: #e4e0d5;
-}
-main.portfolio h1 {
-    float: right;
-    margin: 20px;
     display: grid;
-    align-content: center;
-
+    }
+main.portfolio h1{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    color: #7D1049;
     font-family: "Playwrite CU", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
     font-style: normal;
-}
-main.portfolio h2 {
-    justify-content: right;
-}
-main.portfolio p {
-    padding: 10px; 
-}
+    }   
+.bodytext {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: #3f0243;
+    font-size: large;
+    }
 .academicwriting {
-    width: 45%;
-    float: left;
-    padding: 10px;
     background-color: #E4B7AD;
+    max-width: 30rem;
+    margin: 10px;
+    padding: 10px;
     border-radius: 2rem;
-
-}
+    }
+.academicwriting h2 {
+    justify-self: center;
+    font-size: x-large;
+    }
+main.portfolio img {
+    max-width: 20rem;
+    margin: 30px;
+    border-radius: 2rem;
+    border: 10px #6f4175 dotted;
+    padding: 10px;
+    }
 .creativewriting {
-    width: 45%;
-    float: right;
+    grid-column: 3 / 4;
+     grid-row: 2 / 3;
+   background-color: #E4B7AD;
+    max-width: 30rem;
+    margin: 10px;
     padding: 10px;
-    background-color: #E4B7AD;
     border-radius: 2rem;
-}
+    }
+.creativewriting h2 {
+    justify-self: center;
+    font-size: x-large;
+    }
+main.portfolio a:link {
+        color: #7D1049;
+        }
+main.portfolio a:link :visited {
+        color: #6f4175;
+        }
 
 /* ACADEMIC HOME */
 main.academic {
     background-color: #E4B7AD;
-}
+    align-items: center;
+    }
 main.academic h1 {
     text-align: center;
     color: #7D1049;
     
     font-family: "Playwrite CU", cursive;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-}
+    }
 main.academic h2 {
     color: #7D1049;
+    }
+main.academic p {
+    font-size: large;
 }
 .wrapper {
     border: 10px #6f4175 dotted;
     border-radius: 0.5rem;
-    margin: 0.5rem;
+    margin: auto;
     max-width: 40rem;
     margin-bottom: 0.5rem;
-
-}
+    }
 .academic article {
     background-color: #e4e0d5;
     color: #3f0243;
@@ -265,10 +325,52 @@ main.academic h2 {
     border-radius: 0.5rem;
     padding: 1.3rem;
     margin: 0.9rem;
-}
+    }
 .academic a:link {
     color: #7D1049;
-}
+    }
 .academic a:link :visited {
     color: #E4B7AD;
+    }
+
+/* CREATIVE WRITING HOME */
+main.creative {
+        background-color: #E4B7AD;
+        align-items: center;
+        }
+main.creative h1 {
+        text-align: center;
+        color: #7D1049;
+        
+        font-family: "Playwrite CU", cursive;
+        font-weight: 400;
+        font-style: normal;
+        }
+main.creative h2 {
+        color: #7D1049;
+        }
+main.creative p {
+    font-size: large;
 }
+.wrapper {
+        border: 10px #6f4175 dotted;
+        border-radius: 0.5rem;
+        margin: auto;
+        max-width: 40rem;
+        margin-bottom: 0.5rem;
+        }
+.creative article {
+        background-color: #e4e0d5;
+        color: #3f0243;
+        border: 4px #6f4175 solid;
+        border-radius: 0.5rem;
+        padding: 1.3rem;
+        margin: 0.9rem;
+        }
+.creative a:link {
+        color: #7D1049;
+        }
+.creative a:link :visited {
+        color: #E4B7AD;
+        }
+    
