@@ -10,7 +10,7 @@ p {font-family: "Bellota", system-ui;
     font-weight: 400;
     font-style: normal;}     
 link {#7D1049;
-    visited: color: #E4B7AD}
+    visited: color: #6f4175}
 colors: #e4e0d5 (light beige); #E4B7AD (midtone beige); #7D1049 (magenta); #6f4175 (light purple); #3f0243 (darkest puple); 
 
 */
@@ -117,11 +117,11 @@ footer ul {
     }
 
 /* HOME PAGE */
-main.home { 
+.home { 
     margin: 10px;
     background-color: #e4e0d5;
     }
-main.home h1 {
+.home h1 {
     padding: 1rem;
     border: 3px #3f0243 solid;
     background-color: #E4B7AD;
@@ -135,86 +135,95 @@ main.home h1 {
     font-weight: 400;
     font-style: normal;
     }
-main.home p {
-    align-content: center;
+.home p {
     color: #3F0243;
     font-size: large;
     }
-main.home img {
+img {
     float: right;
     max-width: 100%;
     max-height: 100%;
     margin: 2rem;
-    /* got the positioning right but i don't want the image to auto float to the top when window minimized */
+    border: 3px #3F0243 solid;
+    border-radius: 2rem;
+}
+.home a:link {
+    color: #7D1049;
     }
-
-/* ABOUT PAGE (bump up text size) */ 
-main.aboutme {
+    .home a:visited {
+        color: #6f4175;
+    }
+/* ABOUT PAGE  */ 
+.aboutme {
     margin-top: 1rem;
     margin-bottom: 1rem;
     background-color: #E4B7AD;
     padding-left: 1rem;
     padding-right: 1rem;
     }
-main.aboutme h1 {
+.aboutme h1 {
     color: #7D1049;
     font-family: "Playwrite CU", cursive;
   font-weight: 400;
   font-style: normal;
     }
-main.aboutme h2 {
+.aboutme h2 {
     color: #3F0243;
     }
-main.aboutme p {
+.aboutme p {
     color: #3F0243;
     font-size: large;
     }
 /* how to target elements based on page? */
-main.aboutme a:link {
-    color: #6f4175;
+.aboutme a:link {
+    color: #7D1049;
     }
-main.aboutme img {
+    .aboutme a:visited {
+        color: #6f4175;
+    }
+.aboutme img {
     float: right;
-    max-width: 60%;
+    max-height: 40%;
+    max-width: 40%;
     margin-left: 0.5rem;
     border: 3px#7D1049 solid;
     }
 /* RESUME */
 
-main.resume h1 {
+.resume h1 {
     font-family: "Playwrite CU", cursive;
     font-weight: 400;
     font-style: normal;
     padding: 1.5rem;
     color: #7D1049;
 }
-main.resume p {
+.resume p {
     margin: 1.5rem;
     color: #3f0243;
     font-size: large;
 }
-main.resume li {
+.resume li {
     color: #3F0243;
     font-size: large;
 }
-main.resume img {
+.resume img {
     float: right;
-    border: 2px #fffff solid;
+    border: 2px #3f0243 solid;
     margin: .65rem;
     max-width: 30%;
 }
-main.resume h2 {
+.resume h2 {
     color:#7D1049;
     background-color: #E4B7AD;
     padding: 0.5rem;
 }
-main.resume h3, h4 {
+.resume h3, h4 {
     color: #6f4175;
 }
-main.resume hr {
+.resume hr {
     border: 2px #E4B7AD solid;
 }
-main.resume {
+.resume {
     border: 5px dotted #7D1049;   
     border-top: 0;
     margin: auto;
@@ -224,21 +233,21 @@ main.resume {
     background-color: #e4e0d5;
     padding: 0.5rem;
 }
-main.resume a:link {
+.resume a:link {
     color: #7D1049;
     text-decoration: none;
     }
-main.resume a:link :visited {
+.resume a:link :visited {
     color: #6f4175;
     }
 
 /* PORTFOLIO */
 /* add grid??? */
-main.portfolio {
+.portfolio {
     background-color: #e4e0d5;
     display: grid;
     }
-main.portfolio h1{
+.portfolio h1{
     display: grid;
     align-items: center;
     justify-items: center;
@@ -265,7 +274,7 @@ main.portfolio h1{
     justify-self: center;
     font-size: x-large;
     }
-main.portfolio img {
+.portfolio img {
     max-width: 20rem;
     margin: 30px;
     border-radius: 2rem;
@@ -273,8 +282,6 @@ main.portfolio img {
     padding: 10px;
     }
 .creativewriting {
-    grid-column: 3 / 4;
-     grid-row: 2 / 3;
    background-color: #E4B7AD;
     max-width: 30rem;
     margin: 10px;
@@ -285,30 +292,29 @@ main.portfolio img {
     justify-self: center;
     font-size: x-large;
     }
-main.portfolio a:link {
+.portfolio a:link {
         color: #7D1049;
         }
-main.portfolio a:link :visited {
+.portfolio a:link :visited {
         color: #6f4175;
         }
 
 /* ACADEMIC HOME */
-main.academic {
+.academic {
     background-color: #E4B7AD;
     align-items: center;
     }
-main.academic h1 {
+.academic h1 {
     text-align: center;
     color: #7D1049;
-    
     font-family: "Playwrite CU", cursive;
     font-weight: 400;
     font-style: normal;
     }
-main.academic h2 {
+.academic h2 {
     color: #7D1049;
     }
-main.academic p {
+.academic p {
     font-size: large;
 }
 .wrapper {
@@ -330,15 +336,15 @@ main.academic p {
     color: #7D1049;
     }
 .academic a:link :visited {
-    color: #E4B7AD;
+    color: #6f4175;
     }
 
 /* CREATIVE WRITING HOME */
-main.creative {
+.creative {
         background-color: #E4B7AD;
         align-items: center;
         }
-main.creative h1 {
+.creative h1 {
         text-align: center;
         color: #7D1049;
         
@@ -346,10 +352,10 @@ main.creative h1 {
         font-weight: 400;
         font-style: normal;
         }
-main.creative h2 {
+.creative h2 {
         color: #7D1049;
         }
-main.creative p {
+.creative p {
     font-size: large;
 }
 .wrapper {
@@ -371,6 +377,44 @@ main.creative p {
         color: #7D1049;
         }
 .creative a:link :visited {
-        color: #E4B7AD;
+        color: #6f4175;
         }
     
+/* Contact */
+.contact {
+    background-color: #e4e0d5;
+    display: flex;
+  margin: 1rem auto;
+  align-items: center;
+  justify-items: center;
+    /* 
+    max-width: 40rem;
+    padding: 0.5rem;
+    margin: 1rem auto;
+    color: #3f0243; */
+    }
+.content {
+    background-color: #E4B7AD;
+    padding: 1rem;
+    border-radius: 3rem;
+    border: #6f4175 solid;
+    max-width: 40rem;
+    }
+
+.contact h1 {
+    color: #6f4175;
+    
+}
+.contact a:link {
+    color: #7D1049;
+
+}
+.contact a:visited {
+    color: #6f4175;
+}
+.contact img {
+    margin: 1rem; 
+    border: 10px #7D1049 dotted;
+    border-radius: 3rem;    
+    padding: 0.5rem;
+}
