@@ -12,8 +12,8 @@ p {font-family: "Bellota", system-ui;
 link {#7D1049;
     visited: color: #6f4175}
 colors: #e4e0d5 (light beige); #E4B7AD (midtone beige); #7D1049 (magenta); #6f4175 (light purple); #3f0243 (darkest puple); 
-
 */
+
 body {
    display: grid;
    grid-template-rows: auto 1fr auto;
@@ -153,6 +153,7 @@ img {
     .home a:visited {
         color: #6f4175;
     }
+
 /* ABOUT PAGE  */ 
 .aboutme {
     margin-top: 1rem;
@@ -174,7 +175,6 @@ img {
     color: #3F0243;
     font-size: large;
     }
-/* how to target elements based on page? */
 .aboutme a:link {
     color: #7D1049;
     }
@@ -188,8 +188,8 @@ img {
     margin-left: 0.5rem;
     border: 3px#7D1049 solid;
     }
-/* RESUME */
 
+/* RESUME */
 .resume h1 {
     font-family: "Playwrite CU", cursive;
     font-weight: 400;
@@ -242,7 +242,6 @@ img {
     }
 
 /* PORTFOLIO */
-/* add grid??? */
 .portfolio {
     background-color: #e4e0d5;
     display: grid;
@@ -387,11 +386,6 @@ img {
   margin: 1rem auto;
   align-items: center;
   justify-items: center;
-    /* 
-    max-width: 40rem;
-    padding: 0.5rem;
-    margin: 1rem auto;
-    color: #3f0243; */
     }
 .content {
     background-color: #E4B7AD;
@@ -400,21 +394,20 @@ img {
     border: #6f4175 solid;
     max-width: 40rem;
     }
-
 .contact h1 {
     color: #6f4175;
     
-}
+    }
 .contact a:link {
     color: #7D1049;
 
-}
+    }
 .contact a:visited {
     color: #6f4175;
-}
+    }
 .contact img {
     margin: 1rem; 
     border: 10px #7D1049 dotted;
     border-radius: 3rem;    
     padding: 0.5rem;
-}
+    }
