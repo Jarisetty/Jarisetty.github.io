@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Making a Transcript with ClipChamp"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/project-images/clipchamp-video-example.jpg" />
+    <Link
+      Url="../../381-AVD/My Projects/old/Content/Resources/Images/word-transcribe.png" />
+    <Link
+      Url="../../381-AVD/My Projects/old/Content/Resources/Images/clipchamp-transcribe.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/project-images/clipchamp-video-example.jpg" />
+    <Link
+      Url="../../381-AVD/My Projects/old/Content/Resources/Images/word-transcribe.png" />
+    <Link
+      Url="../../381-AVD/My Projects/old/Content/Resources/Images/clipchamp-transcribe.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

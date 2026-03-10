@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-topic"
+  FileSearchable="false"
+  MasterPage="file:///C:/Users/jarisetty/OneDrive - University of Massachusetts/Documents/My Projects/Arisetty 381 Exercise 5/Content/Resources/TemplatePages/Home-Page.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Content/Resources/Images/Icon-Checkbox.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Gears.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-PDFs.png" />
+    <Link
+      Url="Content/Intro-to-Accessibility/Disability-and-Accessibility.htm" />
+    <Link
+      Url="Content/Resources/Images/Icon-Videos.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Download.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Popular-Topics.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Forum.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Content/Resources/Images/Icon-Checkbox.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Gears.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-PDFs.png" />
+    <Link
+      Url="Content/Intro-to-Accessibility/Disability-and-Accessibility.htm" />
+    <Link
+      Url="Content/Resources/Images/Icon-Videos.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Download.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Popular-Topics.png" />
+    <Link
+      Url="Content/Resources/Images/Icon-Forum.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

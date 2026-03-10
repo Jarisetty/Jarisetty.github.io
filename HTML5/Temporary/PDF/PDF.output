@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/jarisetty/PDF/PDF.pdf"
+  BuildVersion="21.0.9249.40071">
+  <Files>
+    <Url
+      Source="Output/jarisetty/Temporary/PDF/PDF_5177919F/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/jarisetty/PDF/PDF.pdf" />
+    <Url
+      Source="Output/jarisetty/Temporary/PDF/PDF_5177919F/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Output/jarisetty/Temporary/PDF/PDF_5177919F/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/jarisetty/Temporary/PDF/PDF_5177919F/Resources/Images/Logo.svg" />
+    <Url
+      Source="Output/jarisetty/Temporary/PDF/PDF_5177919F/Resources/Branding/Branding.css" />
+    <Url
+      Source="Output/jarisetty/Temporary/PDF/PDF_5177919F/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/jarisetty/Temporary/PDF/PDF_5177919F/Resources/Images/Logo.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

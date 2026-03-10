@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" DescendantCount="20">
+    <TocEntry Title="Intro-to-Accessibility" ComputedFirstTopic="false" DescendantCount="3">
+        <TocEntry Title="Why Accessibility Matters" Link="/Content/Intro-to-Accessibility/Why-Accessibility.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="0" />
+        <TocEntry Title="Disability and Accessibility" Link="/Content/Intro-to-Accessibility/Disability-and-Accessibility.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Online Accessibility" Link="/Content/Intro-to-Accessibility/Online-Accessibility.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    </TocEntry>
+    <TocEntry Title="Team-Transcript" ComputedFirstTopic="false" DescendantCount="6">
+        <TocEntry Title="Transcripts Overview &amp;&#160;Different Types" Link="/Content/Team-Transcript/Transcript-Overview.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="The Importance of Transcripts" Link="/Content/Team-Transcript/Importance-of-Transcripts.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Assistive Technology and Transcripts" Link="/Content/Team-Transcript/Assistive-Technology.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Using Transcripts" Link="/Content/Team-Transcript/Using-Transcripts.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Making a Transcript with ClipChamp" Link="/Content/Team-Transcript/ClipChamp.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Best Practices" Link="/Content/Team-Transcript/Best-Practices.htm" MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    </TocEntry>
+    <TocEntry Title="Features" Link="/Content/B-Feature-Topics/Features.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="3">
+        <TocEntry Title="Feature 1" Link="/Content/B-Feature-Topics/Feature1.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Feature 2" Link="/Content/B-Feature-Topics/Feature2.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Feature 3" Link="/Content/B-Feature-Topics/Feature3.htm" ComputedFirstTopic="false" DescendantCount="0" />
+    </TocEntry>
+    <TocEntry Title="Procedures" Link="/Content/C-Procedure-Topics/Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="3">
+        <TocEntry Title="Procedure 1" Link="/Content/C-Procedure-Topics/Procedure1.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Procedure 2" Link="/Content/C-Procedure-Topics/Procedure2.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        <TocEntry Title="Procedure 3" Link="/Content/C-Procedure-Topics/Procedure3.htm" ComputedFirstTopic="false" DescendantCount="0" />
+    </TocEntry>
+    <TocEntry Title="FAQs" Link="/Content/D-Reference/FAQs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Tips" Link="/Content/D-Reference/Tips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Company" Link="/Content/D-Reference/Company.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+</CatapultToc>

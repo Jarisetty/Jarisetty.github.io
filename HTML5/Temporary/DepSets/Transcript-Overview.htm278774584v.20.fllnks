@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Transcripts Overview &amp; Different Types"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/project-images/basic-transcript.jpg" />
+    <Link
+      Url="Content/Resources/Images/project-images/youtube-example.png" />
+    <Link
+      Url="https://www.w3.org/TR/WCAG21/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/project-images/basic-transcript.jpg" />
+    <Link
+      Url="Content/Resources/Images/project-images/youtube-example.png" />
+    <Link
+      Url="https://www.w3.org/TR/WCAG21/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
