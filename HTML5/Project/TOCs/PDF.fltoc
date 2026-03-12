@@ -3,75 +3,52 @@
   Version="1"
   conditions="">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/E-Frontmatter-Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    BreakType="pageLayout"
-    PageType="title"
-    StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
-    PageNumberReset="continue"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue"
-    ComputeToc="false"
-    ReplaceMergeNode="false" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Intro-to-Accessibility/Disability-and-Accessibility.htm"
-    StartChapter="true"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    PageNumber="1"
-    PageNumberReset="continue"
-    PageNumberFormat="decimal"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    ChapterNumberFormat="decimal"
-    VolumeNumberReset="same"
-    SectionNumberReset="continue"
-    StartPageLayout="false"
-    StartSection="false"
-    AutoEndOnLeftPage="enabled"></TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Intro-to-Accessibility/Why-Accessibility.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/B-Feature-Topics/Features.htm"
-    StartChapter="true"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    PageNumber="1"
-    PageNumberReset="continue"
-    StartSection="false"
-    StartPageLayout="false"
-    AutoEndOnLeftPage="enabled"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue">
+    Title="Intro to Accessibility">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Disability and Accessibility"
+      Link="/Content/Intro-to-Accessibility/Disability-and-Accessibility.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Online Accessibility"
+      Link="/Content/Intro-to-Accessibility/Online-Accessibility.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Why Accessibility Matters"
+      Link="/Content/Intro-to-Accessibility/Why-Accessibility.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/C-Procedure-Topics/Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    Title="Team Transcript">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Transcripts Overview &amp; Different Types"
+      Link="/Content/Team-Transcript/Transcript-Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="The Importance of Transcripts"
+      Link="/Content/Team-Transcript/Importance-of-Transcripts.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Assistive Technology and Transcripts"
+      Link="/Content/Team-Transcript/Assistive-Technology.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using Transcripts"
+      Link="/Content/Team-Transcript/Using-Transcripts.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Making a Transcript with ClipChamp"
+      Link="/Content/Team-Transcript/ClipChamp.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Best Practices"
+      Link="/Content/Team-Transcript/Best-Practices.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Works Cited">
+    <TocEntry
+      Title="Works Cited"
+      Link="/Content/Work-Cited/Works-Cited.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>
