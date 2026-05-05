@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://my.willamette.edu/site/digital-accessibility/guidelines/video-accessibility" />
+    <Link
+      Url="https://accessibility.columbia.edu/content/creating-accessible-video" />
+    <Link
+      Url="https://silentfilmmusic.com/the-silent-film-universe-chapter-11-intertitles/" />
+    <Link
+      Url="https://www.allaccessible.org/blog/color-contrast-accessibility-wcag-guide-2025" />
+    <Link
+      Url="https://truscribe.com/blog/how-visuals-help-you-remember-information/" />
+    <Link
+      Url="https://medium.com/queer-design-club/the-controversy-of-accessible-type-8def04eb8808" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://my.willamette.edu/site/digital-accessibility/guidelines/video-accessibility" />
+    <Link
+      Url="https://accessibility.columbia.edu/content/creating-accessible-video#:~:text=To make videos ADA compliant%2C you can:,visuals * Place transcript near video player" />
+    <Link
+      Url="https://silentfilmmusic.com/the-silent-film-universe-chapter-11-intertitles/" />
+    <Link
+      Url="https://www.allaccessible.org/blog/color-contrast-accessibility-wcag-guide-2025" />
+    <Link
+      Url="https://truscribe.com/blog/how-visuals-help-you-remember-information/#:~:text=Studies show that audio-only,Subscribe to our Newsletter" />
+    <Link
+      Url="https://medium.com/queer-design-club/the-controversy-of-accessible-type-8def04eb8808" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

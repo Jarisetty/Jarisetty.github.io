@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-8.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-9.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-10.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-11.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-12.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-13.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-14.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-15.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-16.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-17.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-18.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-19.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-8.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-9.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-10.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-11.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-12.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-13.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-14.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-15.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-16.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-17.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-18.png" />
+    <Link
+      Url="Content/Resources/Images/vf-images/vf-19.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

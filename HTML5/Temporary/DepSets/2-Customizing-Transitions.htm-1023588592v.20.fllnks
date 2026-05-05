@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/te-images/te-1.png" />
+    <Link
+      Url="Content/Resources/Images/te-images/te-2.png" />
+    <Link
+      Url="Content/Resources/Images/te-images/te-3.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/te-images/te-1.png" />
+    <Link
+      Url="Content/Resources/Images/te-images/te-2.png" />
+    <Link
+      Url="Content/Resources/Images/te-images/te-3.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

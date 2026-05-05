@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Best Practices"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/6-Chunking/4-Tips-Digital-Accessibilty.htm" />
+    <Link
+      Url="Content/Resources/Images/project-images/tr-8.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/6-Chunking/4-Tips-Digital-Accessibilty.htm" />
+    <Link
+      Url="Content/Resources/Images/project-images/tr-8.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://www.nngroup.com/articles/minimize-cognitive-load/" />
+    <Link
+      Url="https://www.section508.gov/design/digital-content-users-with-cognitive-disabilities/" />
+    <Link
+      Url="https://vispero.com/resources/making-the-web-accessible-a-focus-on-cognitive-disabilities/" />
+    <Link
+      Url="https://my.clevelandclinic.org/health/diseases/24938-auditory-processing-disorder" />
+    <Link
+      Url="https://www.psychiatry.org/patients-families/adhd/what-is-adhd" />
+    <Link
+      Url="https://www.w3.org/WAI/standards-guidelines/wcag/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://www.nngroup.com/articles/minimize-cognitive-load/" />
+    <Link
+      Url="https://www.section508.gov/design/digital-content-users-with-cognitive-disabilities/" />
+    <Link
+      Url="https://vispero.com/resources/making-the-web-accessible-a-focus-on-cognitive-disabilities/#:~:text=As more organizations strive to,disabilities might face challenges with" />
+    <Link
+      Url="https://my.clevelandclinic.org/health/diseases/24938-auditory-processing-disorder" />
+    <Link
+      Url="https://www.psychiatry.org/patients-families/adhd/what-is-adhd" />
+    <Link
+      Url="https://www.w3.org/WAI/standards-guidelines/wcag/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

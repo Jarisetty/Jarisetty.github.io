@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659" />
+    <Link
+      Url="https://dev.to/accessibly_speaking/making-animations-and-transitions-accessible-a-guide-for-developers-3ih9" />
+    <Link
+      Url="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html" />
+    <Link
+      Url="https://communications.uams.edu/web/kb/utesting-videos-and-animations-for-photosensitive-seizure-risks/" />
+    <Link
+      Url="https://www.w3.org/TR/WCAG20-TECHS/G15.html" />
+    <Link
+      Url="https://pmc.ncbi.nlm.nih.gov/articles/PMC11872230/" />
+    <Link
+      Url="https://github.com/taehyoungjo/flickerfilter" />
+    <Link
+      Url="https://photosensitivitypal.en.softonic.com/chrome/extension" />
+    <Link
+      Url="https://github.com/apple/VideoFlashingReduction" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659" />
+    <Link
+      Url="https://dev.to/accessibly_speaking/making-animations-and-transitions-accessible-a-guide-for-developers-3ih9" />
+    <Link
+      Url="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html" />
+    <Link
+      Url="https://communications.uams.edu/web/kb/utesting-videos-and-animations-for-photosensitive-seizure-risks/" />
+    <Link
+      Url="https://www.w3.org/TR/WCAG20-TECHS/G15.html" />
+    <Link
+      Url="https://pmc.ncbi.nlm.nih.gov/articles/PMC11872230/#S4" />
+    <Link
+      Url="https://github.com/taehyoungjo/flickerfilter" />
+    <Link
+      Url="https://photosensitivitypal.en.softonic.com/chrome/extension" />
+    <Link
+      Url="https://github.com/apple/VideoFlashingReduction" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

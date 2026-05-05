@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-1.png" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-2.png" />
+    <Link
+      Url="https://www.w3.org/WAI/media/av/captions/" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-3.png" />
+    <Link
+      Url="https://www.vdocipher.com/blog/closed-captions-vs-subtitles/" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-4.png" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-5.png" />
+    <Link
+      Url="https://www.3playmedia.com/popular-topics/closed-captioning/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-1.png" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-2.png" />
+    <Link
+      Url="https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-3.png" />
+    <Link
+      Url="https://www.vdocipher.com/blog/closed-captions-vs-subtitles/" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-4.png" />
+    <Link
+      Url="https://www.youtube.com/watch?v=86Ckh80mLlQ" />
+    <Link
+      Url="Content/Resources/Images/cc-images/cc-5.png" />
+    <Link
+      Url="https://www.3playmedia.com/popular-topics/closed-captioning/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Transcripts Overview &amp; Different Types"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/2-Closed-Captions/1-What-Are-Closed-Captions.htm" />
+    <Link
+      Url="Content/Resources/Images/project-images/basic-transcript.jpg" />
+    <Link
+      Url="https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/captioning_transcripts/transcripts/" />
+    <Link
+      Url="Content/Resources/Images/project-images/youtube-example.png" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+    <Link
+      Url="https://www.w3.org/TR/WCAG21/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/2-Closed-Captions/1-What-Are-Closed-Captions.htm" />
+    <Link
+      Url="Content/Resources/Images/project-images/basic-transcript.jpg" />
+    <Link
+      Url="https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/captioning_transcripts/transcripts/" />
+    <Link
+      Url="Content/Resources/Images/project-images/youtube-example.png" />
+    <Link
+      Url="https://www.youtube.com/watch?v=hzYktavsiXY&amp;t=64s" />
+    <Link
+      Url="https://www.w3.org/TR/WCAG21/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

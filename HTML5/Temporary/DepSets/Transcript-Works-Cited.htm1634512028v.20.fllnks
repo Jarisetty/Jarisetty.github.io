@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Works Cited"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://www.w3.org/TR/WCAG21/" />
+    <Link
+      Url="https://www.w3.org/WAI/media/av/av-content/" />
+    <Link
+      Url="https://www.w3.org/WAI/media/av/transcripts/" />
+    <Link
+      Url="https://op.europa.eu/en/web/accessibility/transcript-concept-assistive-technology" />
+    <Link
+      Url="https://accessibility.huit.harvard.edu/transcripts" />
+    <Link
+      Url="https://clipchamp.com/en/blog/how-to-transcribe-audio-to-text-in-microsoft/" />
+    <Link
+      Url="https://cccaccessibility.org/digital-content/captions-audio-descriptions" />
+    <Link
+      Url="https://www.boia.org/blog/best-practices-for-accessible-transcripts" />
+    <Link
+      Url="https://www.section508.gov/create/captions-transcripts/" />
+    <Link
+      Url="https://www.uagc.edu/accessibility-resource-center/transcript-creation" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://www.w3.org/TR/WCAG21/" />
+    <Link
+      Url="https://www.w3.org/WAI/media/av/av-content/#integrate-description" />
+    <Link
+      Url="https://www.w3.org/WAI/media/av/transcripts/" />
+    <Link
+      Url="https://op.europa.eu/en/web/accessibility/transcript-concept-assistive-technology" />
+    <Link
+      Url="https://accessibility.huit.harvard.edu/transcripts" />
+    <Link
+      Url="https://clipchamp.com/en/blog/how-to-transcribe-audio-to-text-in-microsoft/" />
+    <Link
+      Url="https://cccaccessibility.org/digital-content/captions-audio-descriptions" />
+    <Link
+      Url="https://www.boia.org/blog/best-practices-for-accessible-transcripts" />
+    <Link
+      Url="https://www.section508.gov/create/captions-transcripts/" />
+    <Link
+      Url="https://www.uagc.edu/accessibility-resource-center/transcript-creation" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
