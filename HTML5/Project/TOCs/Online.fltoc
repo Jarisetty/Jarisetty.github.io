@@ -5,49 +5,184 @@
     Title="Intro to Accessibility">
     <TocEntry
       Title="Disability and Accessibility"
-      Link="/Content/Intro-to-Accessibility/Disability-and-Accessibility.htm"
+      Link="/Content/0-Intro-to-Accessibility/Disability-and-Accessibility.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Online Accessibility"
-      Link="/Content/Intro-to-Accessibility/Online-Accessibility.htm"
+      Link="/Content/0-Intro-to-Accessibility/Online-Accessibility.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Why Accessibility Matters"
-      Link="/Content/Intro-to-Accessibility/Why-Accessibility.htm"
+      Link="/Content/0-Intro-to-Accessibility/Why-Accessibility.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="Team Transcript">
+    Title="Video Transcripts">
     <TocEntry
       Title="Transcripts Overview &amp; Different Types"
-      Link="/Content/Team-Transcript/Transcript-Overview.htm"
+      Link="/Content/1-Transcripts/1-What-are-Transcripts.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="The Importance of Transcripts"
-      Link="/Content/Team-Transcript/Importance-of-Transcripts.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Assistive Technology and Transcripts"
-      Link="/Content/Team-Transcript/Assistive-Technology.htm"
+      Link="/Content/1-Transcripts/2-Importance-of-Transcripts.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Using Transcripts"
-      Link="/Content/Team-Transcript/Using-Transcripts.htm"
+      Link="/Content/1-Transcripts/3-Editing-Transcripts.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Making a Transcript with ClipChamp"
-      Link="/Content/Team-Transcript/ClipChamp.htm"
+      Link="/Content/1-Transcripts/4-Transcript-In-Clipchamp.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Best Practices"
-      Link="/Content/Team-Transcript/Best-Practices.htm"
+      Link="/Content/1-Transcripts/5-Best-Practices.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Works Cited"
+      Link="/Content/1-Transcripts/Transcript-Works-Cited.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="Works Cited">
+    Title="Closed Captions">
+    <TocEntry
+      Title="What are Closed Captions?"
+      Link="/Content/2-Closed-Captions/1-What-Are-Closed-Captions.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="What is the History of Closed Captions?"
+      Link="/Content/2-Closed-Captions/2-History-of-Closed-Captions.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Do You Add Closed Captions to a Clipchamp Video?"
+      Link="/Content/2-Closed-Captions/3-Adding-Closed-Captions.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Do You Edit Closed Captions on Clipchamp?"
+      Link="/Content/2-Closed-Captions/4-Editing-Closed-Captions.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Works Cited"
-      Link="/Content/Work-Cited/Works-Cited.htm"
+      Link="/Content/2-Closed-Captions/Captions-Works-Cited.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title=" Audio Description">
+    <TocEntry
+      Title="What is Audio Description?."
+      Link="/Content/3-Audio-Description/1-What-is-Audio-Description.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="What is Integrated Description?"
+      Link="/Content/3-Audio-Description/2-What-is-Integrated-Description.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Who Benefits from Audio Description?"
+      Link="/Content/3-Audio-Description/3-Who-Benefits-From-Audio-description.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Guidance for Using Audio Description?"
+      Link="/Content/3-Audio-Description/4-Guidance.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How to Add Audio Description to an Existing Video"
+      Link="/Content/3-Audio-Description/5-How-to-Add-Audio-Description.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How to Record a Tutorial or Demo Using Integrated Description"
+      Link="/Content/3-Audio-Description/6-How-to-Record-Tutorial.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Works Cited"
+      Link="/Content/3-Audio-Description/Works-Cited-Audio-Description.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title=" Visual Formatting">
+    <TocEntry
+      Title="What are Title Cards, and Who Do They Benefit?"
+      Link="/Content/4-Visual-Formatting/1-Title-Cards.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Do Title Cards Improve Digital Accessibility?"
+      Link="/Content/4-Visual-Formatting/2-Improve-Accessibility.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="What are Best Practices When Creating Title Cards?"
+      Link="/Content/4-Visual-Formatting/3-Best-Practices.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Do You Create Chapter Cards in Clipchamp?"
+      Link="/Content/4-Visual-Formatting/4-Create-Chapter-Cards-Clipchamp.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Do You Create and Customize Title Cards?"
+      Link="/Content/4-Visual-Formatting/5-Create-Customize-Title-Cards.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Works Cited"
+      Link="/Content/4-Visual-Formatting/Visual-Formatting-Works-Cited.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Transition Effects">
+    <TocEntry
+      Title="What are Video Transitions?"
+      Link="/Content/5-Transition-Effects/1-Video-Transitions.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Do You Customize Transitions on Clipchamp?"
+      Link="/Content/5-Transition-Effects/2-Customizing-Transitions.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Guidance for Transition Effects?"
+      Link="/Content/5-Transition-Effects/3-Guidance.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Can You Check the Accessibility of Your Transitions?"
+      Link="/Content/5-Transition-Effects/4-Transition-Accessibility.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Works Cited"
+      Link="/Content/5-Transition-Effects/Transition-Effects-Works-Cited.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Chunking">
+    <TocEntry
+      Title="What is Cognitive Load and Digital Accessibility?"
+      Link="/Content/6-Chunking/1-Cognitive-Load.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How Can Assistive Technology Be Used to Reduce Cognitive Load?"
+      Link="/Content/6-Chunking/2-Assistive-Technology.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="What Are the Best Practices for Digital Accessibility?"
+      Link="/Content/6-Chunking/3-Best-Practices.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Guidance for Digital Accessibility?"
+      Link="/Content/6-Chunking/4-Tips-Digital-Accessibilty.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How To Add Accessible Features in Clipchamp?"
+      Link="/Content/6-Chunking/5-Accessible-Features.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Works Cited"
+      Link="/Content/6-Chunking/Chunking-Works-Cited.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="About This Project">
+    <TocEntry
+      Title="About This Project"
+      Link="/Content/About-This-Project/About.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gen AI Statement"
+      Link="/Content/About-This-Project/Gen-AI-Statement.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>

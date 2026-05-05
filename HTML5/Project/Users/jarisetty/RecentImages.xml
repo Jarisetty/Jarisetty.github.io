@@ -1,10 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
-    <Url Source="Resources/Images/project-images/basic-transcript.jpg" />
-    <Url Source="Resources/Images/project-images/clipchamp-transcribe.png" />
-    <Url Source="Resources/Images/project-images/clipchamp-video-example.jpg" />
-    <Url Source="Resources/Images/project-images/flowchart.png" />
-    <Url Source="Resources/Images/project-images/good-transcription-example.png" />
-    <Url Source="Resources/Images/project-images/word-transcribe.png" />
-    <Url Source="Resources/Images/project-images/youtube-example.png" />
+    <Url Source="Resources/Images/ch-images/ch-11.png" />
+    <Url Source="Resources/Images/ch-images/ch-10.png" />
+    <Url Source="Resources/Images/ch-images/ch-9.png" />
+    <Url Source="Resources/Images/ch-images/ch-8.png" />
+    <Url Source="Resources/Images/ch-images/ch-7.png" />
+    <Url Source="Resources/Images/ch-images/ch-6.png" />
+    <Url Source="Resources/Images/ch-images/ch-5.png" />
+    <Url Source="Resources/Images/ch-images/ch-4.png" />
+    <Url Source="Resources/Images/ch-images/ch-3.png" />
+    <Url Source="Resources/Images/ch-images/ch-2.png" />
+    <Url Source="Resources/Images/ch-images/ch-1.png" />
+    <Url Source="Resources/Images/te-images/te-3.png" />
+    <Url Source="Resources/Images/te-images/te-2.png" />
+    <Url Source="Resources/Images/te-images/te-1.png" />
+    <Url Source="Resources/Images/vf-images/vf-1.png" />
+    <Url Source="Resources/Images/vf-images/vf-19.png" />
+    <Url Source="Resources/Images/vf-images/vf-18.png" />
+    <Url Source="Resources/Images/vf-images/vf-17.png" />
+    <Url Source="Resources/Images/vf-images/vf-16.png" />
+    <Url Source="Resources/Images/vf-images/vf-14.png" />
 </UrlList>

@@ -6,49 +6,48 @@
     Title="Intro to Accessibility">
     <TocEntry
       Title="Disability and Accessibility"
-      Link="/Content/Intro-to-Accessibility/Disability-and-Accessibility.htm"
+      Link="/Content/0-Intro-to-Accessibility/Disability-and-Accessibility.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Online Accessibility"
-      Link="/Content/Intro-to-Accessibility/Online-Accessibility.htm"
+      Link="/Content/0-Intro-to-Accessibility/Online-Accessibility.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Why Accessibility Matters"
-      Link="/Content/Intro-to-Accessibility/Why-Accessibility.htm"
+      Link="/Content/0-Intro-to-Accessibility/Why-Accessibility.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Team Transcript">
     <TocEntry
       Title="Transcripts Overview &amp; Different Types"
-      Link="/Content/Team-Transcript/Transcript-Overview.htm"
+      Link="/Content/1-Transcripts/1-What-are-Transcripts.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="The Importance of Transcripts"
-      Link="/Content/Team-Transcript/Importance-of-Transcripts.htm"
+      Link="/Content/1-Transcripts/2-Importance-of-Transcripts.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Assistive Technology and Transcripts"
-      Link="/Content/Team-Transcript/Assistive-Technology.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Using Transcripts"
-      Link="/Content/Team-Transcript/Using-Transcripts.htm"
+      Link="/Content/1-Transcripts/3-Editing-Transcripts.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Making a Transcript with ClipChamp"
-      Link="/Content/Team-Transcript/ClipChamp.htm"
+      Link="/Content/1-Transcripts/4-Transcript-In-Clipchamp.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Best Practices"
-      Link="/Content/Team-Transcript/Best-Practices.htm"
+      Link="/Content/1-Transcripts/5-Best-Practices.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Works Cited">
     <TocEntry
       Title="Works Cited"
-      Link="/Content/Work-Cited/Works-Cited.htm"
+      Link="/Content/1-Transcripts/Transcript-Works-Cited.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>

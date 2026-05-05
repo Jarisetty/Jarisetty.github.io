@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
     Name="CompanyName"
-    EvaluatedDefinition="My Company Name, LLC">My Company Name, LLC</Variable>
+    EvaluatedDefinition="PWTC">PWTC</Variable>
   <Variable
     Comment=""
     Name="PhoneNumber">858 123 4567</Variable>
@@ -18,12 +18,12 @@
   <Variable
     Name="CityStateZip"
     Comment=""
-    EvaluatedDefinition="La Jolla, CA 92037">La Jolla, CA 92037</Variable>
+    EvaluatedDefinition="Amherst Ma, 01003">Amherst Ma, 01003</Variable>
   <Variable
     Name="UserGuideTitle"
     Comment=""
     OriginalName="PDFGuideTitle"
-    EvaluatedDefinition="Product User Guide">Product User Guide</Variable>
+    EvaluatedDefinition="Web Accessibility">Web Accessibility</Variable>
   <Variable
     Name="VersionNumber"
     OriginalName="VersionNumberDot">1.0</Variable>
