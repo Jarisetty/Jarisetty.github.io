@@ -403,9 +403,9 @@ div.quick-links *	/*Text-align center set to all elements within div.quick-links
 div.topic-hero
 {
 	padding: 5%;
-	background-image: url('../Images/hero-image-flare.jpg');
 	background-size: cover;
 	background-attachment: scroll;
+	background-image: url('../Images/madcap-hero.png');
 }
 
 div.topic-hero h1
@@ -572,7 +572,7 @@ p.frame-footer-text
 	height: 275px;
 	margin: 0px;
 	background-color: #45494C;
-	background-image: url('../Images/hero-image-flare.jpg');
+	background-image: url('../Images/madcap-hero.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -606,6 +606,11 @@ p.footer-sub
 	color: #FFFFFF;
 	font-size: 14pt;
 	margin-top: 14px;
+}
+
+:root
+{
+	--HeroImage: url('../Images/madcap-hero.png');
 }
 
 @media only screen and (max-width: 1279px)
@@ -789,5 +794,17 @@ p.footer-sub
 		mc-format: '{quote}{para}{quote} {pageref}';
 		text-decoration: none;
 	}
+}
+
+.float-right
+{
+	float: right;
+	padding-left: 20px;
+}
+
+.float-left
+{
+	padding-right: 20px;
+	float: left;
 }
 
