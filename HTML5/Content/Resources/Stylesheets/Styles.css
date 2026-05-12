@@ -147,6 +147,7 @@ p.title
 	line-height: 65pt;
 	margin-top: 30px;
 	mc-hyphenate: never;
+	color: #003d4b;
 }
 
 p.title-page-footer
@@ -189,13 +190,13 @@ p.TOC2
 
 p.TOC3
 {
-	color: #45494C;
-	font-size: 13pt;
 	line-height: 21pt;
 	font-weight: normal;
 	margin-bottom: 10px;
 	margin-left: 1in;
 	margin-top: 10px;
+	color: #5e6367;
+	font-size: 12pt;
 }
 
 /* Headings */
@@ -406,6 +407,7 @@ div.topic-hero
 	background-size: cover;
 	background-attachment: scroll;
 	background-image: url('../Images/madcap-hero.png');
+	color: #003d4b;
 }
 
 div.topic-hero h1
@@ -793,6 +795,27 @@ p.footer-sub
 		font-weight: normal;
 		mc-format: '{quote}{para}{quote} {pageref}';
 		text-decoration: none;
+	}
+
+	p.TOC1
+	{
+		color: #00657c;
+	}
+
+	p.TOC2
+	{
+		color: #076685;
+	}
+
+	p.TOC3
+	{
+		color: #000000;
+		font-size: 13pt;
+	}
+
+	p.TOC4
+	{
+		color: #8a9094;
 	}
 }
 
