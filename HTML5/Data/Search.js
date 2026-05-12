@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/0-Intro-to-Accessibility/Disability-and-Accessibility.htm'],s:['+','movement'],p:[['+',28],['cards',24],['for',1],['might',5],['see',9],['uams',31]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/0-Intro-to-Accessibility/1-Disability-and-Accessibility.htm'],s:['+','mandat'],p:[['+',29],['capable',11],['example',36],['lighten',33],['purple',37],['they',17],['you',12]]});
